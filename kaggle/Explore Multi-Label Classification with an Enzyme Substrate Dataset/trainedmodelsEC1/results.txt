@@ -1,0 +1,18 @@
+------------------------------------------------------------
+[EC1] Results (larger accuracy better): 
+01 AdaBoost 70.16%
+02 GradientBoosting 70.00%
+03 HistGradientBoosting 69.65%
+04 ExtraTrees (Gini) 69.46%
+05 Ridge 69.25%
+06 ExtraTrees (Entropy) 69.22%
+07 RandomForest 66.77%
+08 Bagging 66.66%
+09 GaussianNaiveBayes 65.42%
+10 KNeighbors 64.31%
+11 BernoulliNaiveBayes 64.29%
+12 NearestCentroid 61.48%
+13 ExtraTree 60.92%
+14 DecisionTree 59.57%
+15 PassiveAggressive 55.77%
+------------------------------------------------------------
