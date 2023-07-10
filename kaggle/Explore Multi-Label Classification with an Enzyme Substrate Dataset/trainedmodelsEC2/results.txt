@@ -1,18 +1,18 @@
 ------------------------------------------------------------
 [EC2] Results (larger accuracy better): 
-01 RandomForest 79.89%
-02 HistGradientBoosting 79.89%
-03 BernoulliNaiveBayes 79.89%
-04 Ridge 79.87%
-05 GradientBoosting 79.78%
-06 AdaBoost 79.70%
-07 PassiveAggressive 79.62%
-08 ExtraTrees (Gini) 79.43%
-09 ExtraTrees (Entropy) 79.43%
-10 Bagging 74.18%
-11 KNeighbors 73.88%
-12 DecisionTree 66.01%
-13 ExtraTree 65.80%
-14 NearestCentroid 59.25%
-15 GaussianNaiveBayes 22.99%
+01 AdaBoost 79.62%
+02 RandomForest 79.62%
+03 PassiveAggressive 79.62%
+04 Ridge 79.62%
+05 BernoulliNaiveBayes 79.62%
+06 HistGradientBoosting 79.58%
+07 GradientBoosting 79.55%
+08 ExtraTrees (Entropy) 78.03%
+09 ExtraTrees (Gini) 77.96%
+10 Bagging 74.16%
+11 KNeighbors 72.98%
+12 ExtraTree 67.96%
+13 DecisionTree 67.59%
+14 NearestCentroid 59.70%
+15 GaussianNaiveBayes 30.49%
 ------------------------------------------------------------
