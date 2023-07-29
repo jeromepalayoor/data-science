@@ -1,0 +1,47 @@
+------------------------------------------------------------
+Results (smaller error better): 
+01 HistGradientBoosting (poisson) 1.14%
+02 HistGradientBoosting (sq err) 1.16%
+03 HistGradientBoosting (abs err) 1.18%
+04 KNeighbors 1.38%
+05 Bagging 1.42%
+06 ExtraTrees (sq err) 1.48%
+07 DecisionTree 1.48%
+08 Extra Tree 1.48%
+09 GradientBoosting (huber) 1.78%
+10 GradientBoosting (sq err) 1.81%
+11 GradientBoosting (abs err) 1.84%
+12 MLP 1.90%
+13 Random Forest (sq err) 4.91%
+14 Random Forest (poisson) 4.91%
+15 AdaBoost (square) 4.99%
+16 Linear SVR (epsilon_insensitive) 6.43%
+17 TheilSenRegressor 6.50%
+18 SGDRegressor (l2) 6.72%
+19 Radius Neighbors 6.75%
+20 BayesianRidge 6.76%
+21 RidgeCV 6.76%
+22 Ridge (Linear) 6.76%
+23 Linear SVR (squared_epsilon_insensitive) 6.76%
+24 PLS 6.76%
+25 LassoLarsIC (bic) 6.76%
+26 LassoLarsIC (aic) 6.76%
+27 Linear 6.76%
+28 ARD 6.76%
+29 SGDRegressor (l1) 6.79%
+30 SGDRegressor (elasticnet) 6.80%
+31 OrthogonalMatchingPursuit 6.92%
+32 AdaBoost (linear) 7.34%
+33 GammaRegressor 8.16%
+34 RANSAC 8.17%
+35 SVR 8.28%
+36 TweedieRegressor (auto) 8.45%
+37 TweedieRegressor (identity) 8.45%
+38 PassiveAggressiveRegressor (squared_epsilon_insensitive) 8.63%
+39 Adaboost (exponential) 8.99%
+40 PoissonRegressor 9.00%
+41 TweedieRegressor (log) 9.08%
+42 Elastic Net (random) 9.08%
+43 Elastic Net (cyclic) 9.08%
+44 PassiveAggressiveRegressor (epsilon_insensitive) 9.13%
+------------------------------------------------------------
